@@ -1,8 +1,8 @@
 ---
 layout:     post
 title:      "Habit Burger: Charburger"
-subtitle:   "A delicious blend of meaty goodness and gooey cheese"
-date:       2016-07-09 12:08:00
+subtitle:   "The ultimate combination of delicious burgers and great customer service"
+date:       2016-07-16 12:00:00
 author:     "Philip Yoo"
 header-img: "img/post-img/2016-07-16-habit-burger-header.jpg"
 ---
@@ -10,10 +10,15 @@ header-img: "img/post-img/2016-07-16-habit-burger-header.jpg"
 <!-- http://emoji.codes/# -->
 <div class="convert-emoji">
 	<p>:smiley::smiley::hamburger::fries::beer::heavy_plus_sign::tomato::cheese::bread::cow::heavy_dollar_sign::eight::thumbsup:</p>
+	<hr/>
 	<p>:pager::tada::anguished::anguished::arrow_left::sweat::pray::ok_hand::ok_hand::hamburger::arrow_right::smiley::smiley::speech_balloon:</p>
+	<hr/>
 	<p>:tongue::100::100::fire::hamburger::tongue::thumbsup::fries::ok_hand::hot_pepper::hot_pepper::hamburger::x::scream:</p>
+	<hr/>
 	<p>:slight_smile::arrow_right::smiley::smiley::free::hamburger::exclamation::thumbsup::thumbsup::clap::clap::leftwards_arrow_with_hook:</p>
+	<hr/>
 	<p>:tongue::eight::cloud::seven::slight_smile::keycap_ten::dollar::nine::leftwards_arrow_with_hook::keycap_ten:</p>
+	<hr/>
 	<p>:four::four::heavy_division_sign::five::zero:</p>
 </div>
 <button type="button" class="btn" id="review-toggle">Read the Text Review</button>

@@ -8,7 +8,14 @@ header-img: "img/post-img/2016-07-16-habit-burger-header.jpg"
 ---
 
 <!-- http://emoji.codes/# -->
-<p class="convert-emoji">:hamburger::cheese::cheese::ok_hand:</p>
+<div class="convert-emoji">
+	<p>:smiley::smiley::hamburger::fries::beer::heavy_plus_sign::tomato::cheese::bread::cow::heavy_dollar_sign::eight::thumbsup:</p>
+	<p>:pager::tada::anguished::anguished::arrow_left::sweat::pray::ok_hand::ok_hand::hamburger::arrow_right::smiley::smiley::speech_balloon:</p>
+	<p>:tongue::100::100::fire::hamburger::tongue::thumbsup::fries::ok_hand::hot_pepper::hot_pepper::hamburger::x::scream:</p>
+	<p>:slight_smile::arrow_right::smiley::smiley::free::hamburger::exclamation::thumbsup::thumbsup::clap::clap::leftwards_arrow_with_hook:</p>
+	<p>:tongue::eight::cloud::seven::slight_smile::keycap_ten::dollar::nine::leftwards_arrow_with_hook::keycap_ten:</p>
+	<p>:four::four::heavy_division_sign::five::zero:</p>
+</div>
 <button type="button" class="btn" id="review-toggle">Read the Text Review</button>
 <div class="text-review">
 	<img src="{{ site.baseurl }}/img/post-img/2016-07-16-habit-burger-img1.jpg" alt="Habit Burger Meal Image">
@@ -17,7 +24,7 @@ header-img: "img/post-img/2016-07-16-habit-burger-header.jpg"
 	<p>It was simply delicious. It had all the ingredients a burger should have with the slight charred flavor you get from grilling a patty over coals or charcoal. The fries were crispy but weren't out of this world. But then again, the burger is the star of the meal. There's also a pepper bar where you can pick up pepperoncini, sliced or whole, to accompany your meal. Before I knew it, the burger was gone even though I tried to savor each bite.</p>
 	<p>Later, an employee, apologizing for the mistake, came over with a coupon (pictured below) for a free Charburger. I was totally fine with the hiccup and it wasn't the restaurant's fault. However, this level of customer service and the quality of the food convinced me to return to Habit Burger once more with an empty stomach.</p>
 	<img src="{{ site.baseurl }}/img/post-img/2016-07-16-habit-burger-img2.jpg" alt="Habit Burger Coupon Image">
-	<p>Rating:</p>
+	<h3>Rating:</h3>
 	<ul>
 		<li>Taste = 8/10</li>
 		<li>Atmosphere = 7/10</li>
@@ -25,5 +32,5 @@ header-img: "img/post-img/2016-07-16-habit-burger-header.jpg"
 		<li>Cost = 9/10</li>
 		<li>Making restaurant visits a habit = 10/10</li>
 	</ul>
-	<p>Total: 44/50</p>
+	<strong>Total: 44/50</strong>
 </div>

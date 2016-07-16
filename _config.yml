@@ -1,7 +1,7 @@
 # Site settings
 title: Emoji Reviews
 header-img: img/home-bg.jpg
-email: your-email@yourdomain.com
+email: philipsdyoo@gmail.com
 copyright_name: Emoji Reviews
 description: "A blog reviewing food, movies, games, and more written soley with emoji"
 baseurl: "/emojireviews"
@@ -9,7 +9,7 @@ url: "https://philipsdyoo.github.io"
 #twitter_username: SBootstrap
 github_username:  philipsdyoo
 #facebook_username:  IronSummitMedia
-email_username:  your-email@yourdomain.com
+email_username:  philipsdyoo@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID

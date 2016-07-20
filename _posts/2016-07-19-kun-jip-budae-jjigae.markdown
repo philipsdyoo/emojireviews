@@ -17,7 +17,7 @@ header-img: "img/post-img/2016-07-19-kun-jip-budae-jjigae.jpg"
 	<hr/>
 	<p>:tongue::nine::cloud::seven::slight_smile::eight::dollar::seven::tongue::keycap_ten:</p>
 	<hr/>
-	<p>:four::four::heavy_division_sign::five::zero:</p>
+	<p>:four::one::heavy_division_sign::five::zero:</p>
 </div>
 <button type="button" class="btn" id="review-toggle">Read the Text Review</button>
 <div class="text-review">

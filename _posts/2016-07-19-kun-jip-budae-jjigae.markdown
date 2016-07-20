@@ -2,7 +2,7 @@
 layout:     post
 title:      "Kun Jip: Budae Jjigae"
 subtitle:   "Battling the heat with even more heat"
-date:       2016-07-96 12:00:00
+date:       2016-07-19 12:00:00
 author:     "Philip Yoo"
 header-img: "img/post-img/2016-07-19-kun-jip-budae-jjigae.jpg"
 ---

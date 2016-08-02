@@ -2,7 +2,7 @@
 layout:     post
 title:      "10 Below: Strawberry Shawty"
 subtitle:   "A great way to cool down on a hot summer day"
-date:       2016-07-31 12:00:00
+date:       2016-08-01 12:00:00
 author:     "Philip Yoo"
 header-img: "img/post-img/2016-08-01-10-below-strawberry-shawty-header.jpg"
 ---

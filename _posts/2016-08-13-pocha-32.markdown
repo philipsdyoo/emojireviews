@@ -1,0 +1,46 @@
+---
+layout:     post
+title:      "Pocha 32: Donkatsu, Budae Jjigae, and Pineapple Soju"
+subtitle:   "Ending a great day with dinner in Koreatown"
+date:       2016-08-13 12:00:00
+author:     "Philip Yoo"
+header-img: "img/post-img/2016-08-13-pocha-32-header.jpg"
+---
+
+<!-- http://emoji.codes/# -->
+<div class="convert-emoji">
+	<p>:three::heavy_division_sign::three::night_with_stars::night_with_stars::flag_kr::cityscape::circus_tent::pig::stew::sake:</p>
+	<hr/>
+	<p>:pig::flag_jp::salad::grapes::neutral_face::confused:</p>
+	<hr/>
+	<p>:stew::cheese::pig::hotdog::hot_pepper::ramen::spaghetti::slight_smile::slight_smile::slight_smile:</p>
+	<hr/>
+	<p>:pineapple::sake::neutral_face::heavy_plus_sign::sake::arrow_right::slight_smile:</p>
+	<hr/>
+	<p>:three::thumbsup::cloud::ok_hand::ok_hand::ok_hand::flag_kr::arrow_right::cityscape::cityscape:</p>
+	<hr/>
+	<p>:tongue::seven::cloud::eight::slight_smile::seven::dollar::eight::flag_kr::keycap_ten:</p>
+	<hr/>
+	<p>:four::zero::heavy_division_sign::five::zero:</p>
+</div>
+<button type="button" class="btn" id="review-toggle">Read the Text Review</button>
+<div class="text-review">
+	<img src="{{ site.baseurl }}/img/post-img/2016-08-13-pocha-32-img4.jpg" alt="The complete spread">
+	<p>This is the last part of the three meals I've had on my trip to New York, NY. It was a dinner in Koreatown at a restaurant called Pocha 32. This restaurant attempts to emulate the food tents that are set up nighttime around Korea where people enjoy a cheap filling meal and drinks after a long day at work. This meal consisted of three dishes: donkatsu, budae jjigae, and pineapple soju.</p>
+	<img src="{{ site.baseurl }}/img/post-img/2016-08-13-pocha-32-img1.jpg" alt="Donkatsu">
+	<p>The donkatsu was a deep-fried pork cutlet which is technically a Japanese dish. It came a salad with blueberry dressing on the side as well. The portion was large but it didn't taste that great. It was mediocre at best. The salad was also underwhelming.</p>
+	<img src="{{ site.baseurl }}/img/post-img/2016-08-13-pocha-32-img2.jpg" alt="Budae jjigae">
+	<p>The budae jjigae was unlike the budae jjigae I had at Kun Jip in my earlier review. It had squash, tofu, cheese, spam, mushroom, hotdogs, kimchi, peppers, ramen, bowtie pasta, and other vegetables. It was served in a large pot meant to be shared between three to four people. It was very good though some ingredients were a bit unconventional. The broth was a bit lighter in flavor compared to the Kun Jip budae jjigae. Pocha 32's focused on the ingredients while Kun Jip seems to have focused on the broth. As a side note, Pocha 32's tofu was very good; it had a very soft texture and was almost creamy.</p>
+	<img src="{{ site.baseurl }}/img/post-img/2016-08-13-pocha-32-img3.jpg" alt="Pineapple soju">
+	<p>The pineapple sofu is a soju mixture served in a hollowed out pineapple. It was refreshing and sweet but a little weak on alcohol taste, so my friend added a little bit of his own soju into the solution.</p>
+	<p>All in all, we shared these three dishes between the three of us and greatly enjoyed them. The atmosphere seems to match the outdoor food tents in Korea even though it was just a large indoor room in midtown Manhattan. It's a great place for large portions, cheap eats, neat presentation, atmosphere, and good alcohol.</p>
+	<h3>Rating:</h3>
+	<ul>
+		<li>Taste = 7/10</li>
+		<li>Atmosphere = 8/10</li>
+		<li>Customer Service = 7/10</li>
+		<li>Cost = 8/10</li>
+		<li>Koreatown Essence = 10/10</li>
+	</ul>
+	<strong>Total: 40/50</strong>
+</div>
